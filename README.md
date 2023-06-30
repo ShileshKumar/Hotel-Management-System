@@ -3,22 +3,24 @@
 
 # Snapshots
 ### Home Page
-![image](https://github.com/ShileshKumar/Hotel-Management-System/assets/55770859/126a7dd4-a95e-4e0a-ba0d-bc2ad9bb43c4)
+![image](https://github.com/ShileshKumar/Hotel-Management-System/assets/55770859/79de3934-f146-4bff-8b8b-8c4bcc8f5efb)
 
 ### Make a Reservation
-![image](https://github.com/ShileshKumar/Hotel-Management-System/assets/55770859/423855c3-3d3a-4b5e-8480-c9f17f6555aa)
+![image](https://github.com/ShileshKumar/Hotel-Management-System/assets/55770859/515b004b-c4d7-4a7d-aa02-6842f187ceaf)
 
 ### Add New Customer
-![image](https://github.com/ShileshKumar/Hotel-Management-System/assets/55770859/3d59cb4f-d080-4f1a-9e44-9bfc90abe540)
- 
+![image](https://github.com/ShileshKumar/Hotel-Management-System/assets/55770859/6f9580df-db60-4f37-946f-5b4cd048dd14)
+
 ### Add New Employee
-![image](https://github.com/ShileshKumar/Hotel-Management-System/assets/55770859/d0e33661-ae2f-4506-85a9-5df536907c4a)
+![image](https://github.com/ShileshKumar/Hotel-Management-System/assets/55770859/2e1dbe20-efd3-4ca3-bda9-1ebc4449bc38)
 
 ### Import data from CSV
-![image](https://github.com/ShileshKumar/Hotel-Management-System/assets/55770859/be4fcbb9-f250-45aa-a2a1-426674e35f0e)
+![image](https://github.com/ShileshKumar/Hotel-Management-System/assets/55770859/0c094e7e-6328-480a-873b-dbfb2103cac9)
+
 
 ### Export data as CSV
-![image](https://github.com/ShileshKumar/Hotel-Management-System/assets/55770859/abae3e21-6470-404a-a979-3d4b5315a891)
+![image](https://github.com/ShileshKumar/Hotel-Management-System/assets/55770859/1d882f7f-951b-4864-a8df-c0af1625a274)
+
 
 
 # Usage Guide
