@@ -1,18 +1,12 @@
-# Base image
-FROM python:3.8-slim-buster
+FROM python:3.8
 
-# Set the working directory
-WORKDIR /app
+RUN apt-get update && apt-get install -y mysql-client
 
-# Install dependencies
-COPY requirements.txt requirements.txt
-RUN pip install --no-cache-dir -r requirements.txt
+COPY requirements.txt /app/
+RUN pip install -r /app/requirements.txt
 
-# Copy the application code
-COPY . .
+COPY . /app/
 
-# Expose the application port
-EXPOSE 5000
+WORKDIR /app/
 
-# Start the application
 CMD ["python", "app.py"]
